@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Terrel**, a self-taught programmer and web geek with Python super powers.
+ Hey! I'm **Terrel**, a self-taught programmer and web geek with 🐍Python super powers.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my [CV](/about/) and blog posts below 
